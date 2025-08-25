@@ -36,7 +36,7 @@ code .
 py .\Jogo_de_Adivinhação.py
 ```
 
-E pronto! Agora você pode jogar o Adivinhucas e usar sua sorte para acertar o número. Que os jogos comecem e que a sorte esteja sempre a seu favor.
+#### E pronto! Agora você pode jogar o Adivinhucas e usar sua sorte para acertar o número. Que os jogos comecem e que a sorte esteja sempre a seu favor.
 
 # 💻 Linguagens/ferramentas utilizadas no projeto 💻
 
